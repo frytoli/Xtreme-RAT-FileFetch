@@ -84,3 +84,5 @@ This message is little endian enocded and zlib compressed.
 
 
 The C2 then transmits the file.
+
+The Code automates all communication and file transmission.
